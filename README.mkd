@@ -1,0 +1,11 @@
+waffle
+======
+
+A repository that can be used to manage a multi-repository waffle.io board.
+
+Contributing
+============
+
+If you want to help, look at the [board](https://waffle.io/sigmavirus24/waffle), choose an issue and start working on it.
+
+If the issue belongs to this repository, it's a meta-issue. Feel free to open a Pull Request to the CONTRIBUTORS.mkd file to note that you closed that particular issue.
